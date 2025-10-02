@@ -1,0 +1,11 @@
+Mini Project: News Summarizer 📰
+
+Paste long text → Get short, medium, long summaries.
+
+Resources:
+
+HuggingFace Summarization Models: https://huggingface.co/models?pipeline_tag=summarization
+
+Example: BART Summarization Notebook
+
+OpenAI Summarization API: https://platform.openai.com/examples/default-summarize
